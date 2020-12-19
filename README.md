@@ -1,2 +1,3 @@
 # Railway-Reservation-System
-In this structural properties are followed.
+In first py file structural properties are followed by implementing the different functionalities in different functions.
+While in second file, SoLID properties are implemented with the help of classes and objects. 
